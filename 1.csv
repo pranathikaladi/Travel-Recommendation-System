@@ -1,0 +1,287 @@
+location,place,state,location_rating,age,season,types_of_travel,religion,itemId,travel_type_any,travel_type_family,travel_type_friends,travel_type_solo,religion_any,religion_buddist,religion_christian,religion_hindus,religion_jain,religion_muslim,religion_sikhs,season_any,season_autumn,season_rainy,season_spring,season_summer,season_winter,Category
+Bhoramdeo Temple,"Chaura village, Kawardha town", chhattisgarh,4,0,winter,family,hindus,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Pilgrimage
+  maitri bagh,"Near to Maroda, Bhilai",chhattisgarh,4,20,any,friends,any,2,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+Tirathgarh Falls,Bastar district,chhattisgarh,4.6,25,rainy,friends,any,3,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Waterfalls
+Sirpur Heritage Site,bank of holy Mahanadi river,chhattisgarh,5,0,winter,family,hindus,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Pilgrimage
+Rajeev Smriti Van,Raipur,chhattisgarh,3.9,0,any,solo,any,5,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0, Park
+Palolem Beach,Canacona,Goa,5,22,spring,friends,any,6,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Water
+Calangute beach,North Goaalangute beach,Goa,4.4,0,rainy,friends,any,7,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Water
+Fort Aguada,Candolim,Goa,4.2,0,rainy,any,any,8,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Historic
+Chapora Fort,Vagato,Goa,4.3,35,rainy,family,any,9,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Historic
+Basilica de Bom Jesus,Bainguinim,Goa,4.5,0,summer,family,christian,10,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Pilgrimage
+dudhsagar-falls,�Mandovi River�,Goa,4.6,18,winter,friends,any,11,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Waterfalls
+Reis Magos Fort Arpora Night Market,Arpora,Goa,4.2,0,any,family,any,12,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+Deltin Royale Casino,Panaji,Goa,4.3,20,autumn,friends,any,13,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Water
+Naval Aviation Museum,Vasco da Gama,Goa,4.5,24,spring,friends,any,14,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Museum
+Champaner-Pavagadh Archaeological Park,�Panchmahal,Gujarat,4.4,0,any,any,any,16,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Park
+Konark Sun Temple,Konark,Gujarat,4.6,0,spring,family,hindus,17,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Pilgrimage
+Polo Forest,Gujarat,Gujarat,4.3,15,rainy,friends,any,18,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Park
+Dwarka,Gujarat,Gujarat,4.2,0,winter,family,hindus,19,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Pilgrimage
+Somnath,Veraval,Gujarat,4.8,35,winter,family,hindus,20,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Pilgrimage
+Gir National Park,Gujarat,Gujarat,4.2,11,winter,friends,any,21,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Rann Of Kutch,Kutch,Gujarat,4.5,22,winter,friends,any,22,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Desert
+Makarpura Palace,Vadodara,Gujarat,4,0,summer,family,any,23,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Historic
+EME Temple,Gujarat,Gujarat,4.7,30,rainy,family,hindus,24,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Pilgrimage
+Brahma Sarovar,kurukshetra,Harayana,4.7,0,autumn,family,hindus,25,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Pilgrimage
+Kabuli Bagh Mosque,Panipat,Harayana,4,0,any,any,muslim,26,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Pilgrimage
+Holy Redeemer Church,Ambala,Harayana,4.6,0,any,any,christian,27,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+Sultanpur Bird Sanctuary,Harayana,Harayana,4.1,0,winter,friends,any,28,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Leisure Valley Park,Gurgaon,Harayana,4.7,10,any,any,any,29,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Park
+Kingdom of Dreams,Harayana,Harayana,4.5,0,any,any,any,30,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Park
+Jatmai Temple,Raipur,chhattisgarh,4.5,0,rainy,family,hindus,31,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Pilgrimage
+Nandan Van Zoo,�Atari,chhattisgarh,3.9,25,any,friends,any,32,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+Ghatarani Waterfalls,Raipur,chhattisgarh,4.3,22,summer,friends,any,33,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Waterfalls
+MM Fun City,�Arang,chhattisgarh,4.1,25,any,friends,any,34,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Park
+Solang Valley,Manali,Himachal pradesh,4,40,any,any,any,35,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Valley
+jakhu temple,shimla,Himachal pradesh,4.5,0,any,any,hindus,36,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Beas River,central Himachal pradesh,Himachal pradesh,4.5,20,any,any,any,37,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+Manikaran Gurudwara,Kullu ,Himachal pradesh,4.5,0,any,any,any,38,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Jogini Waterfall,Manali,Himachal pradesh,4.5,0,any,any,any,39,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Waterfalls
+Spiti valley,Lahaul,Himachal pradesh,5,0,any,any,any,40,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Desert
+Hidimba Devi Temple,Manali,Himachal pradesh,4.5,0,any,any,hindus,41,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Triund Hill,Kangra,Himachal pradesh,4.5,20,any,any,any,42,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Hill Station
+Tirthan Valley,Kullu ,Himachal pradesh,5,20,any,any,any,43,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Valley
+Prashar lake,Mandi,Himachal pradesh,4.5,0,any,any,any,44,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+Bhagus Waterfall,Dharamshala,Himachal pradesh,5,20,summer,any,any,45,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Waterfalls
+Masroor Rock Cut temple,Lahalpur,Himachal pradesh,4.5,0,any,any,hindus,46,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Barot valley,Mandi,Himachal pradesh,4.5,20,any,any,any,47,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Valley
+parvathi valley,Kullu ,Himachal pradesh,4.5,20,any,any,any,48,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Valley
+Dal Lake,Srinagar,Jammu & Kashmir,4.5,0,any,any,any,49,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+Vaishnavo Devi Mandir,Trikuta hills,Jammu & Kashmir,4.5,0,any,any,hindus,50,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Gulmarg,Gulmarg,Jammu & Kashmir,4.5,20,any,any,any,51,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Hill Station
+Pahalgam,Anantnag,Jammu & Kashmir,4.5,20,any,any,any,52,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Valley
+Amarnath,Anantnag,Jammu & Kashmir,4.5,20,any,any,hindus,53,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Nubra Valley,Ladakh,Jammu & Kashmir,5,0,rainy,any,any,54,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Valley
+Sonamarg,Ganderbal,Jammu & Kashmir,4.5,0,any,any,any,55,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Hill Station
+Jammu,Jammu,Jammu & Kashmir,4,20,any,any,any,56,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Hill Station
+Lamayur,Leh,Jammu & Kashmir,4.5,20,summer,any,any,57,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Pilgrimage
+Deoghar temple,Deoghar,Jharkhand,4.5,0,any,any,hindus,58,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Jamshedpur,Jamshedpur,Jharkhand,4,0,any,any,any,59,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+Ghatshila,singhbhum,Jharkhand,4.2,0,any,any,any,60,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+dasham falls,Ranchi,Jharkhand,3.5,0,any,any,any,61,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Waterfalls
+Netarhat,Latehar,Jharkhand,4,0,any,any,any,62,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Hill Station
+hazaribagh,chhota nagpur,Jharkhand,4.5,0,any,any,any,63,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+Banglore,Banglore,Karnataka,4,0,any,any,any,65,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+mysore,mysore,Karnataka,4.5,0,any,any,any,66,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Chikmagalur,Mullayagiri,Karnataka,4.5,0,any,any,any,67,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Waterfalls
+hampi,Vijayanagara,Karnataka,4.5,0,any,any,hindus,68,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+udupi,udipi,Karnataka,4.5,0,any,any,any,69,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Pilgramage
+Murudeshwar,uttar kannada,Karnataka,4.5,0,any,any,hindus,70,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+gokarna,uttar kannada,Karnataka,4.5,0,any,any,hindus,71,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Dandiel,uttar kannada,Karnataka,4,20,any,any,any,72,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+jog falls,Shivamogga,Karnataka,4.5,20,any,any,any,73,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Waterfalls
+shravanabelagola,Hassan,Karnataka,4.5,0,any,any,jain,74,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Historic
+pattadakal,Bagalkot,Karnataka,4.5,0,any,any,any,75,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+nandi hills,Banglore,Karnataka,4,0,any,any,any,76,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+bijapur,bijapur,Karnataka,4.5,0,any,any,any,77,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Kemmanagundi,chikamagaluru,Karnataka,4.5,0,any,any,any,78,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Valley
+manglore,dakshina kannada,Karnataka,4.5,0,any,any,any,79,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+Dharmasthala,dakshina kannada,Karnataka,4.5,0,any,any,any,80,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+Kodanad,Ernakulam,Kerala,4.1,25,spring,family,any,81,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Wildlife
+Thodupuzha,Idukki ,Kerala,4,25,rainy,family,any,82,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Water
+Kattappana,Idukki ,Kerala,3.9,20,any,family,any,83,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+Paravur,Kollam,Kerala,4.3,20,autumn,any,any,84,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Parunthumpara,Idukki ,Kerala,4.2,20,any,any,any,85,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Marayoor,Idukki ,Kerala,3.6,20,winter,any,any,86,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Valley
+Anamudi,Idukki ,Kerala,4.4,20,winter,any,any,87,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hill Station
+Chinnar Wildlife Sanctuary ,munnar,Kerala,4.3,20,winter,any,any,88,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Valara Waterfalls,munnar,Kerala,4.2,25,autumn,any,any,89,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Waterfalls
+Top station ,munnar,Kerala,4.2,25,winter,any,any,90,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hill Station
+Alleppey Beach,alappuzha,Kerala,4.4,25,spring,any,any,91,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Water
+Krishnapuram palace,kayamkulam,Kerala,4,25,winter,any,any,92,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Historic
+Gwalior,Near Agra,Madhya Pradesh ,4.3,35,autumn,family,any,93,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Khajuraho,Chhatarpur district ,Madhya Pradesh ,4.2,30,autumn,family,hindus,94,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Pilgrimage
+Orchha,Jhansi,Madhya Pradesh ,3.9,25,autumn,any,any,95,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Bandhavgarh National Park,Jabalpur,Madhya Pradesh ,4,25,autumn,any,any,96,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Sanchi,Bhopal,Madhya Pradesh ,4,30,rainy,family,buddist,97,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Historic
+Pachmarhi,Bhopal ,Madhya Pradesh ,4.2,25,autumn,any,any,98,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Hill Station
+Kanha National Park,jabalpur,Madhya Pradesh ,4.4,20,autumn,any,any,99,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Pench National Park,Nagpur,Madhya Pradesh ,4.5,20,autumn,any,any,100,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Bhimbetka,Bhopal ,Madhya Pradesh ,4.7,30,rainy,any,hindus,101,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Historic
+Panna National Park,"Gwalior,Bhopal ",Madhya Pradesh ,4.8,20,autumn,any,any,102,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Bhopal,Bhopal,Madhya Pradesh ,5,20,rainy,any,any,103,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Water
+Omkareshwar,indore,Madhya Pradesh ,5,35,autumn,family,hindus,104,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Pilgrimage
+Ujjain,indore,Madhya Pradesh ,5,30,autumn,family,hindus,105,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Pilgrimage
+Mumbai ,Mumbai ,Maharashtra ,5,20,autumn,any,any,106,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Industrail
+Ajanta Caves,Aurangabad,Maharashtra ,4.2,30,autumn,any,any,107,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Lonavala,pune,Maharashtra ,4,25,autumn,any,any,108,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Hill Station
+Mahabaleshwar,"pune,Mumbai ",Maharashtra ,4.3,20,autumn,any,any,109,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Shirdi,"Mumbai, pune",Maharashtra ,5,15,autumn,family,hindus,110,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Pilgrimage
+ellora caves,aurangabad ,Maharashtra ,4.5,20,autumn,any,any,111,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Panchgani,pune,Maharashtra ,4.2,25,autumn,any,any,112,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Hill Station
+Aurangabad ,mumbai,Maharashtra ,4.9,30,autumn,any,any,113,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Nashik,Mumbai ,Maharashtra ,4.9,30,autumn,any,any,114,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Ratnagiri,Mumbai ,Maharashtra ,4.8,25,autumn,family,any,115,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Pune,pune,Maharashtra ,5,20,autumn,any,any,116,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Industrail
+Imphal,Manipur ,Manipur,2.6,30,autumn,any,any,117,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Valley
+Thoubal,Manipur ,Manipur,3.4,30,autumn,any,any,118,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Valley
+Tamenglong,Manipur ,Manipur,3.1,25,autumn,any,any,119,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Chandel,Manipur ,Manipur,3.8,30,autumn,any,any,120,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Loktak Lake and Sendra Island,Imphal ,Manipur,3.6,35,autumn,any,any,121,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Water
+Moirang,Manipur ,Manipur,3.5,30,autumn,any,any,122,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Water
+Keibul Lamjao National Park,Bishnupur,Manipur,4.3,30,winter,family,any,123,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Kangla Fort,Imphal,Manipur,4.3,0,any,any,any,124,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Shri Shri Govindaji Temple,Imphal,Manipur,4.2,35,any,family,hindus,125,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Manipur State Museum,Imphal,Manipur,4,25,any,family,any,126,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+Shirui kashong (peak),Ukhrul,Manipur,4.5,27,any,friends,any,127,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Hill Station
+RKCS Art Gallery And Museum,Imphal,Manipur,4.4,20,any,family,any,128,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+Khongjom War Memorial Complex,Thoubal,Manipur,4.4,10,rainy,friends,any,129,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Historic
+Loukoi Pat,Imphal,Manipur,3.9,27,rainy,solo,any,130,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Park
+Shirui Kashong,Ukhrul,Manipur,4.6,22,summer,friends,any,131,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Hill Station
+Singda Dam,Imphal,Manipur,4.2,22,winter,friends,any,132,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Waterfalls
+NohKaLikai Falls,Cherrapunji,Meghalaya,4.7,25,winter,any,any,133,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Waterfalls
+Umiam Lake,Shillong,Meghalaya,4.5,24,rainy,friends,any,134,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Water
+Elephant Falls,Shillong,Meghalaya,4.4,23,rainy,friends,any,135,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Waterfalls
+Balpakram National Park,Garo Hills,Meghalaya,4.2,13,winter,solo,any,136,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Nokrek National Park,Garo Hills,Meghalaya,4.2,15,any,friends,any,137,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+Ward's Lake,Shillong,Meghalaya,4.4,20,rainy,solo,any,138,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Water
+Double Decker Living Root Bridge,Cherrapunji,Meghalaya,4.7,35,rainy,solo,any,139,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Water
+"Shillong View Point, Laitkor Peak",Shillong,Meghalaya,4.4,23,summer,friends,any,140,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Hill Station
+Don Bosco Museum,Shillong,Meghalaya,4.4,10,any,family,christian,141,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Museum
+Laitlum Canyon,Shillong,Meghalaya,4.7,21,winter,friends,any,142,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hill Station
+Vantawng Falls,Serchhip,Mizoram,4.1,26,winter,friends,any,143,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Waterfalls
+Tam Dil,Saitual,Mizoram,4.4,19,winter,family,any,144,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Water
+Tropic of Cancer - Mizoram,Aizwal,Mizoram,4.3,28,winter,family,any,145,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Historic
+Phawngpui National Park,Lawngtlai,Mizoram,4.2,16,any,family,any,146,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+Dampa Tiger Reserve Sanctuary,Aizwal,Mizoram,3.8,15,winter,family,any,147,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Mizoram State Museum,Aizwal,Mizoram,4.1,18,winter,friends,any,148,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Museum
+Reiek,Aizwal,Mizoram,4.5,25,winter,friends,any,149,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hill Station
+Murlen National Park,Champhai,Mizoram,4.3,20,winter,family,any,150,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Palak Lake,Saiha,Mizoram,4.1,21,winter,solo,any,151,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Water
+Tuirihiau falls,Serchhip,Mizoram,4.4,24,winter,friends,any,152,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Waterfalls
+Intanki National Park,Peren,Nagaland,4,13,winter,family,any,153,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Kohima War Cemetery,Kohima,Nagaland,4.2,40,any,family,any,154,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Nagaland State Museum,Kohima,Nagaland,3.8,35,any,family,any,155,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+Naga Heritage Village,Kohima,Nagaland,4.5,28,winter,family,any,156,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Pilgrimage
+Kachari Ruins,Dimapur,Nagaland,4.2,32,any,family,any,157,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Shilloi Lake,Phek,Nagaland,4.3,25,rainy,friends,any,158,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Water
+Puliebadze WildLife Sanctuary,Jotsoma,Nagaland,4.4,26,winter,friends,any,159,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Wildlife
+Nagaland Zoological Park,Dimapur,Nagaland,3.7,13,any,family,any,160,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+Dzuleke,Kohima,Nagaland,4.5,23,winter,friends,any,161,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Hill Station
+Kohima Cathedral Church,Kohima,Nagaland,4.6,45,any,family,christian,162,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+nohkalikai falls,cherrapunji,meghalaya,4.7,0,summer,any,any,163,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Waterfalls
+umiam lake,shillong,meghalaya,4.5,0,any,friends,any,164,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+elephant falls,shillong,meghalaya,4.4,0,summer,any,any,165,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Waterfalls
+double descker living roots bridge,cherrapunji,meghalaya,4.8,15,any,friends,any,166,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+balpakram national park,garo hills,meghalaya,4.2,0,any,any,any,167,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+tropic of cancer,mizoram,mizoram,4.3,0,any,friends,any,168,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+mizoram state museum,aizawl,mizoram,4.1,0,any,family,any,169,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+solomon's temple,aizawl,mizoram,4.4,0,any,family,christian,170,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+lushai hills,patkai,mizoram,4.4,20,spring,friends,any,171,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Hill Station
+folkland park,aizawl,mizoram,4.2,0,any,family,any,172,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Park
+kohima war cemetery,kohima,nagaland,4.2,0,summer,solo,any,173,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Historic
+dimapur Ao baptist church,dimapur,nagaland,4.6,0,any,family,christian,174,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+dzukou valley trek,dzukou ,nagaland,4.8,20,summer,friends,any,175,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Valley
+kalibari temple,dimapur,nagaland,4.8,0,spring,family,hindus,176,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Pilgrimage
+triple falls seithekema,dimapur,nagaland,4.5,20,summer,solo,any,177,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Waterfalls
+konark sun temple ,konark,odisha,4.6,0,spring,family,hindus,178,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Pilgrimage
+shri jagannath temple ,puri,odisha,4.7,0,summer,family,hindus,179,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Pilgrimage
+similipal national park,bhanjpur,odisha,4.3,0,any,any,any,180,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+golden beach,puri,odisha,4.5,15,summer,friends,any,181,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Water
+mukteswara temple ,bhudaneswar,odisha,4.6,0,any,family,hindus,182,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+nandankanan zoological park,bhudaneswar,odisha,4.4,0,any,any,any,183,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+udaygiri and khandagiri caves,bhudaneswar,odisha,4.4,20,any,friends,any,184,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+lingaraja temple,bhudaneswar,odisha,4.6,0,summer,family,hindus,185,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Pilgrimage
+hirakud dam,hirakund,odisha,4.2,20,spring,friends,any,186,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Waterfalls
+nagaland state museum,bayavu hills,nagaland,3.8,0,any,any,any,187,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+naga heritage village,naga,nagaland,4.5,0,any,solo,any,188,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+shilloi lake,lustam village,nagaland,4.3,10,any,friends,any,189,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+mount saramati,burma,nagaland,4.2,20,spring,solo,any,190,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Hill Station
+ntanki national park,peren,nagaland,4,0,any,any,any,191,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+ tam dil lake,aizawl,mizoram,4.4,20,summer,friends,any,192,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Water
+dampa tiger reserve ,western mizoram,mizoram,3.9,15,any,any,any,193,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+mizoram science centre,zarkawt ,mizoram,4.1,0,any,friends,any,194,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+khawhpawp water falls ,aizawl,mizoram,4,20,spring,solo,any,195,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Waterfalls
+pushpak gurudwara,aizawl,mizoram,4.1,0,any,family,hindus,196,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+kyllang rock ,khasi hills ,meghalaya,4.2,20,any,solo,any,197,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+baghmara,baghmara,meghalaya,4,0,any,friends,any,198,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+ward's lake,shillong,meghalaya,4.4,20,any,friends,any,199,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+nokrek national park,tura,meghalaya,4.2,0,any,family,any,200,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+don bosco museum,shillong,meghalaya,4.4,0,any,any,any,201,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+Ujjyanta Palace,Agartala,Tripura,4.6,20,any,any,any,202,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Heritage Park,Agartala,Tripura,4.2,25,any,any,any,203,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Park
+Haveli Museum,Agartala,Tripura,3.9,30,any,any,any,204,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+Jagannath Bari,Agartala,Tripura,4.4,35,winter,family,hindus,205,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Pilgrimage
+Tripureshwari Temple,Udaipur,Tripura,4.7,35,any,any,hindus,206,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Kalyan Sagar,Udaipur,Tripura,4.4,20,summer,any,any,207,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Pilgrimage
+Rowa Wildlife Sanctuary ,Dharmanagar,Tripura,3.5,15,summer,any,any,208,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Wildlife
+Unakoti,Kailashahar,Tripura,4.5,35,any,family,hindus,209,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Historic
+Trishna Wild Life,Belonia,Tripura,3.9,15,summer,friends,any,210,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Wildlife
+Rajbari National Park,Belonia,Tripura,5,20,any,friends,any,211,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+golconda fort ,hyderabad,telangana,4.4,0,spring,any,any,212,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Historic
+charminar,hyderabad,telangana,4.4,0,spring,any,any,213,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Historic
+ramoji film city,hyderabad,telangana,4.4,0,any,any,any,214,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+salar jung museum,hyderabad,telangana,4.4,0,any,any,any,215,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum
+hussain sagar,hyderabad,telangana,4.3,0,summer,any,any,216,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Water
+birla mandir,hyderabad,telangana,4.6,0,any,family,hindus,217,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+mecca masjid,hyderabad,telangana,4.7,0,any,family,muslim,218,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Pilgrimage
+qutb shahi tombs,hyderabad,telangana,4.4,0,any,any,any,219,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+chilkur balaji temple,chilkur,telangana,4.3,0,any,family,hindus,220,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+thousand pillar temple,warangal,telangana,4.5,0,spring,family,hindus,221,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Pilgrimage
+Taj Mahal,Agra,Uttar Pradesh,4.6,0,any,any,any,222,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Noida,Noida,Uttar Pradesh,4,25,autumn,any,any,223,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Industrail
+Jhansi,Jhansi,Uttar Pradesh,4,15,any,any,any,224,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Kashi Viswanath Temple,varanasi,Uttar Pradesh,4.5,45,any,family,hindus,225,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Vrindavan,Vrindavan,Uttar Pradesh,4.2,30,any,any,hindus,226,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Lucknow,Locknow,Uttar Pradesh,4.1,0,winter,any,any,227,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Historic
+Ayodhya,Ayodhya,Uttar Pradesh,4.2,30,autumn,any,hindus,228,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Historic
+Hastinapur,Hastinapur,Uttar Pradesh,4.6,25,autumn,any,hindus,229,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Historic
+Kanpur,Kanpur,Uttar Pradesh,4.8,30,any,any,any,230,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Prayagraj,Allahabad,Uttarpradesh,4.1,30,any,any,hindus,231,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Industrail
+Fatehpur Sikri,Agra,Uttar Pradesh,4.6,30,any,any,any,232,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Sree Venkateswara Swamy Temple,Tirupathi,Andhra Pradesh,4.8,40,any,any,hindus,233,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Araku,Vizag,Andhra Pradesh,4.2,0,autumn,any,any,234,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Valley
+Horsley Hills,Madanapalle,Andhra Pradesh,4,0,autumn,any,any,235,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Hill Station
+Sri Raghavendra Swamy Mutt,Mantralaya,Andhra Pradesh,4.7,40,any,any,hindus,236,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Pilgrimage
+Talakona Waterfalls,tirupathi,Andhra Pradesh,4.4,12,autumn,any,any,237,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Waterfalls
+Borra Caves,Araku,Andhra Pradesh,4.5,15,any,any,any,238,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Bheemili Beach,Vizag,Andhra Pradesh,4.3,7,autumn,any,any,239,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Water
+Srisailam Dam,Srisailam,Andhra Pradesh,4.7,20,autumn,any,any,240,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Waterfalls
+Pulicat Lake and Sanctuary,Sullurpet,Andhra Pradesh,4,10,autumn,any,any,241,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Water
+SHAR,Srihari Kota,Andhra Pradesh,4.7,0,any,any,any,242,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+Papikondalu,Rajahmundry,Andhra Pradesh,4.4,0,autumn,any,any,243,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Waterfalls
+Yaganti Temple,Yaganti,Andhra Pradesh,4.6,30,autumn,any,hindus,244,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Pilgrimage
+Indira Gandhi Zoological Park,Visakhapatnam,Andhra Pradesh,4.1,0,autumn,any,any,245,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Chandragiri Fort,Chandragiri,Andhra Pradesh,4.2,0,any,any,any,246,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Namdapha National Park,Namdaph,Arunachal Pradesh,4.3,15,any,any,any,247,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Wildlife
+Tawang,Tawang,Arunachal Pradesh,4.7,0,summer,any,any,248,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Pilgrimage
+Sela Pass,Tawang,Arunachal Pradesh,4.8,0,autumn,any,any,249,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Ziro Valley,Ziro,Arunachal Pradesh,4.8,20,summer,any,any,250,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Valley
+Tezu,Lohit,Arunachal Pradesh,4.1,20,winter,any,buddist,251,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Valley
+Roing,Roing,Arunachal Pradesh,4.1,0,autumn,any,any,252,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Valley
+Bomdila,West Kameng,Arunachal Pradesh,4.7,30,summer,family,any,253,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Hill Station
+Dirang Valley,Dirang ,Arunachal Pradesh,4.9,20,summer,any,any,254,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Valley
+Pasi Ghat,East Siang,Arunachal Pradesh,3.9,20,spring,any,any,255,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Water
+Itanagar,Itanagar,Arunachal Pradesh,4,0,autumn,any,any,256,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Aalo,West Siang,Arunachal Pradesh,3.8,25,autumn,any,any,257,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Valley
+Nuranang Falls,Tawang,Arunachal Pradesh,4.3,25,rainy,any,any,258,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Waterfalls
+Bhalukpong,West Kameng,Arunachal Pradesh,4.4,0,autumn,any,any,259,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic 
+Sangti,Dirang ,Arunachal Pradesh,4,0,rainy,any,any,260,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Valley
+Changlang,Changlang,Arunachal Pradesh,4.5,25,autumn,any,any,261,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Kaziranga National Park,Guwahati,Assam,3.9,25,autumn,any,any,262,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Manas National Park,Gobardhana,Assam,3.8,20,autumn,any,any,263,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Wildlife
+Kamakhya Temple,kamakhya,Assam,4.5,30,autumn,family,hindus,264,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Pilgrimage
+Majuli Island,Majuli,Assam,4.7,0,autumn,any,any,265,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Water
+Kakochang Waterfalls,Kakochang ,Assam,4.5,0,autumn,any,any,266,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Waterfalls
+Tocklai Tea Research Centre,Jorhat,Assam,4.5,25,any,any,any,267,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+Guwahati Planetarium,Guwahati,Assam,4.3,20,any,any,any,268,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+Hajo,Guwahati,Assam,4,30,autumn,any,any,269,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Padam Pukhuri,Tezpur,Assam,4,20,any,any,any,270,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Water
+Haflong Hills,Haflong,Assam,4.2,25,autumn,any,any,271,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Hill Station
+Dibrugarh,Dibrugarh,Assam,4.4,25,autumn,any,any,272,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Historic
+Tinsukia,Tinsukia,Assam,3.9,0,autumn,any,any,273,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Industrail
+Dispur,Dispur,Assam,4,0,any,any,any,274,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Amaravathi,Guntur,Andhra Pradesh,4.1,0,any,any,any,275,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Pilgrimage
+Bodh Gaya,Gaya,Bihar,4.3,20,autumn,any,buddist,276,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Patna,Patna,Bihar,4.2,25,autumn,any,sikhs,277,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Pilgrimage
+Nalanda,Nalanda,Bihar,4.2,0,autumn,any,buddist,278,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Historic
+Vaishali,Patna,Bihar,4.4,30,autumn,any,any,279,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Madhubani,Darbhanga,Bihar,4,30,autumn,any,any,280,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Pilgrimage
+Muzaffarpur,Muzaffarpur,Bihar,3.9,25,any,any,any,281,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Historic
+Bhugalpur,Bhagulpur,Bihar,4.2,0,autumn,any,any,282,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,Industrail
+Hot Spring,Rajgir,Bihar,4.5,0,rainy,any,any,283,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Historic
+Jal Mandir,Pawapuri,Bihar,4.1,30,rainy,any,jain,284,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Pilgrimage
+Hajipur,Hajipur,Bihar,3.9,25,any,any,any,285,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Industrail
+ Karkat Waterfall,Karkathgarh,Bihar,4.5,20,rainy,friends,any,286,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Waterfalls
+Dhungeswari hills,Larpur,Bihar,4,20,any,any,buddist,287,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Hill Station
+Patna Musuem,Patna,Bihar,4.3,0,any,any,any,288,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Museum

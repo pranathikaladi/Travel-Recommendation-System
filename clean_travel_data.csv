@@ -1,0 +1,287 @@
+location,place,state,location_rating,age,season,affordable,types_of_travel,religion,itemId
+Bhoramdeo Temple,"Chaura village, Kawardha town", chhattisgarh,4,0,winter,Yes,family,hindu,1
+  maitri bagh,"Near to Maroda, Bhilai",chhattisgarh,4,20,"summer,spring,winter,rainy,autumn",Yes,friends,any,2
+Tirathgarh Falls,Bastar district,chhattisgarh,4.6,25,monsoon,Yes,friends,any,3
+Sirpur Heritage Site,bank of holy Mahanadi river,chhattisgarh,5,0,winter,Yes,family,hindu,4
+Rajeev Smriti Van,Raipur,chhattisgarh,3.9,0,"summer,spring,winter,rainy,autumn",Yes,solo,any,5
+Palolem Beach,Canacona,Goa,5,22,spring,Yes,friends,any,6
+Calangute beach,North Goaalangute beach,Goa,4.4,0,monsoon,Yes,friends,any,7
+Fort Aguada,Candolim,Goa,4.2,0,monsoon,Yes,"friends,family,solo",any,8
+Chapora Fort,Vagato,Goa,4.3,35,monsoon,Yes,family,any,9
+Basilica de Bom Jesus,Bainguinim,Goa,4.5,0,summer,Yes,family,christian,10
+dudhsagar-falls,�Mandovi River�,Goa,4.6,18,winter,Yes,friends,any,11
+Reis Magos Fort Arpora Night Market,Arpora,Goa,4.2,0,"summer,spring,winter,rainy,autumn",Yes,family,any,12
+Deltin Royale Casino,Panaji,Goa,4.3,20,autumn,Yes,friends,any,13
+Naval Aviation Museum,Vasco da Gama,Goa,4.5,24,spring,Yes,friends,any,14
+Champaner-Pavagadh Archaeological Park,�Panchmahal,Gujarat,4.4,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,16
+Konark Sun Temple,Konark,Gujarat,4.6,0,spring,Yes,family,hindu,17
+Polo Forest,Gujarat,Gujarat,4.3,15,monsoon,yes,friends,any,18
+Dwarka,Gujarat,Gujarat,4.2,0,winter,Yes,family,hindu,19
+Somnath,Veraval,Gujarat,4.8,35,winter,Yes,family,hindu,20
+Gir National Park,Gujarat,Gujarat,4.2,11,winter,Yes,friends,any,21
+Rann Of Kutch,Kutch,Gujarat,4.5,22,winter,yes,friends,any,22
+Makarpura Palace,Vadodara,Gujarat,4,0,summer,yes,family,any,23
+EME Temple,Gujarat,Gujarat,4.7,30,monsoon,yes,family,hindu,24
+Brahma Sarovar,kurukshetra,Harayana,4.7,0,autumn,yes,family,hindu,25
+Kabuli Bagh Mosque,Panipat,Harayana,4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",musilm,26
+Holy Redeemer Church,Ambala,Harayana,4.6,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",chritian,27
+Sultanpur Bird Sanctuary,Harayana,Harayana,4.1,0,winter,yes,friends,any,28
+Leisure Valley Park,Gurgaon,Harayana,4.7,10,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,29
+Kingdom of Dreams,Harayana,Harayana,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,30
+Jatmai Temple,Raipur,chhattisgarh,4.5,0,rainy,yes,family,hindu,31
+Nandan Van Zoo,�Atari,chhattisgarh,3.9,25,"summer,spring,winter,rainy,autumn",yes,friends,any,32
+Ghatarani Waterfalls,Raipur,chhattisgarh,4.3,22,summer,yes,friends,any,33
+MM Fun City,�Arang,chhattisgarh,4.1,25,"summer,spring,winter,rainy,autumn",yes,friends,any,34
+Solang Valley,Manali,Himachal pradesh,4,40,"summer,winter",yes,"family,friends",any,35
+jakhu temple,shimla,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,36
+Beas River,central Himachal pradesh,Himachal pradesh,4.5,20,"summer,spring,winter,rainy,autumn",yes,"friends,family",any,37
+Manikaran Gurudwara,Kullu ,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo","sikhs,hindus",38
+Jogini Waterfall,Manali,Himachal pradesh,4.5,0,"summer,spring,autumn",yes,"friends,family,solo",any,39
+Spiti valley,Lahaul,Himachal pradesh,5,0,"summer,autumn",yes,"friends,family,solo",any,40
+Hidimba Devi Temple,Manali,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,41
+Triund Hill,Kangra,Himachal pradesh,4.5,20,"summer,autumn",yes,"friends,solo",any,42
+Tirthan Valley,Kullu ,Himachal pradesh,5,20,"summer,spring,winter",yes,"friends,family",any,43
+Prashar lake,Mandi,Himachal pradesh,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,44
+Bhagus Waterfall,Dharamshala,Himachal pradesh,5,20,summer,yes,"friends,family,solo",any,45
+Masroor Rock Cut temple,Lahalpur,Himachal pradesh,4.5,0,"summer,spring",yes,"friends,family,solo",hindus,46
+Barot valley,Mandi,Himachal pradesh,4.5,20,"summer,spring,autumn,winter",yes,"family,friends",any,47
+parvathi valley,Kullu ,Himachal pradesh,4.5,20,"summer,spring",yes,"friends,family,solo",any,48
+Dal Lake,Srinagar,Jammu & Kashmir,4.5,0,"summer,monsoon,autumn",yes,"friends,family,solo",any,49
+Vaishnavo Devi Mandir,Trikuta hills,Jammu & Kashmir,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,50
+Gulmarg,Gulmarg,Jammu & Kashmir,4.5,20,"summer,spring,autumn,winter",yes,"friends,family",any,51
+Pahalgam,Anantnag,Jammu & Kashmir,4.5,20,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,52
+Amarnath,Anantnag,Jammu & Kashmir,4.5,20,"summer,monsoon",yes,"friends,family,solo",hindus,53
+Nubra Valley,Ladakh,Jammu & Kashmir,5,0,monsoon,yes,"friends,family,solo",any,54
+Sonamarg,Ganderbal,Jammu & Kashmir,4.5,0,"summer,monsoon,autumn",yes,"friends,family,solo",any,55
+Jammu,Jammu,Jammu & Kashmir,4,20,"autumn,winter,spring",yes,"friends,family,solo",any,56
+Lamayur,Leh,Jammu & Kashmir,4.5,20,summer,yes,"friends,family,solo",any,57
+Deoghar temple,Deoghar,Jharkhand,4.5,0,"monsoon,autumn,winter,spring",yes,"friends,family,solo",hindus,58
+Jamshedpur,Jamshedpur,Jharkhand,4,0,"autumn,winte,spring",yes,"friends,family,solo",any,59
+Ghatshila,singhbhum,Jharkhand,4.2,0,"autumn,winter,spring",yes,"friends,family,solo",any,60
+dasham falls,Ranchi,Jharkhand,3.5,0,"monsoon,autumn,spring",yes,"friends,family,solo",any,61
+Netarhat,Latehar,Jharkhand,4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,62
+hazaribagh,chhota nagpur,Jharkhand,4.5,0,"autumn,winter,spring",yes,"friends,family,solo",any,63
+Banglore,Banglore,Karnataka,4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,65
+mysore,mysore,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,66
+Chikmagalur,Mullayagiri,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,67
+hampi,Vijayanagara,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo",hindus,68
+udupi,udipi,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,69
+Murudeshwar,uttar kannada,Karnataka,4.5,0,"autumn,winter,spring,summer",yes,"friends,family,solo",hindus,70
+gokarna,uttar kannada,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",hindus,71
+Dandiel,uttar kannada,Karnataka,4,20,"autumn,winter,spring,summer",yes,"friends,family,solo",any,72
+jog falls,Shivamogga,Karnataka,4.5,20,"monsoon,autumn,winter",yes,"friends,family,solo",any,73
+shravanabelagola,Hassan,Karnataka,4.5,0,"autumn,winter,summer,spring",yes,"friends,family,solo",jain,74
+pattadakal,Bagalkot,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo","hindus,jain",75
+nandi hills,Banglore,Karnataka,4,0,"autumn,winter,spring,summer",yes,"friends,family,solo",any,76
+bijapur,bijapur,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo","islam,any",77
+Kemmanagundi,chikamagaluru,Karnataka,4.5,0,"autumn,winter,spring,summer",yes,"friends,family,solo",any,78
+manglore,dakshina kannada,Karnataka,4.5,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,79
+Dharmasthala,dakshina kannada,Karnataka,4.5,0,"autumn,winter,spring",yes,"friends,family,solo","hindus,jain",80
+Kodanad,Ernakulam,Kerala,4.1,25,spring,Yes,family,any,81
+Thodupuzha,Idukki ,Kerala,4,25,monsoon,Yes,family,any,82
+Kattappana,Idukki ,Kerala,3.9,20,"summer,spring,winter,rainy,autumn",Yes,family,any,83
+Paravur,Kollam,Kerala,4.3,20,autumn,Yes,"friends,solo",any,84
+Parunthumpara,Idukki ,Kerala,4.2,20,"summer,spring,winter,rainy,autumn",Yes,"friends,solo",any,85
+Marayoor,Idukki ,Kerala,3.6,20,winter,Yes,"friends,solo",any,86
+Anamudi,Idukki ,Kerala,4.4,20,winter,Yes,"friends,solo",any,87
+Chinnar Wildlife Sanctuary ,munnar,Kerala,4.3,20,winter,Yes,"friends,solo",any,88
+Valara Waterfalls,munnar,Kerala,4.2,25,autumn,Yes,"friends,solo",any,89
+Top station ,munnar,Kerala,4.2,25,winter,Yes,"friends,solo",any,90
+Alleppey Beach,alappuzha,Kerala,4.4,25,spring,Yes,"friends,solo",any,91
+Krishnapuram palace,kayamkulam,Kerala,4,25,winter,Yes,"friends,solo",any,92
+Gwalior,Near Agra,Madhya Pradesh ,4.3,35,autumn,yes,family,religious ,93
+Khajuraho,Chhatarpur district ,Madhya Pradesh ,4.2,30,autumn,No,family ,hindu,94
+Orchha,Jhansi,Madhya Pradesh ,3.9,25,autumn,yes,"family,friends",religious ,95
+Bandhavgarh National Park,Jabalpur,Madhya Pradesh ,4,25,autumn,yes,"solo,family,friends ",any,96
+Sanchi,Bhopal,Madhya Pradesh ,4,30,monsoon,no,family,buddhism ,97
+Pachmarhi,Bhopal ,Madhya Pradesh ,4.2,25,autumn,yes,"family,friends ",any,98
+Kanha National Park,jabalpur,Madhya Pradesh ,4.4,20,autumn,no,"family,friends ",any,99
+Pench National Park,Nagpur,Madhya Pradesh ,4.5,20,autumn,yes,"family,friends ",any,100
+Bhimbetka,Bhopal ,Madhya Pradesh ,4.7,30,monsoon,yes,"family,friends ",hindu,101
+Panna National Park,"Gwalior,Bhopal ",Madhya Pradesh ,4.8,20,autumn,no,"solo,family,friends ",any,102
+Bhopal,Bhopal,Madhya Pradesh ,5,20,monsoon,yes,"solo,family,friends ",any,103
+Omkareshwar,indore,Madhya Pradesh ,5,35,autumn,yes,family,hindu,104
+Ujjain,indore,Madhya Pradesh ,5,30,autumn,yes,family,hindu,105
+Mumbai ,Mumbai ,Maharashtra ,5,20,autumn,no,"solo,family,friends ",any,106
+Ajanta Caves,Aurangabad,Maharashtra ,4.2,30,autumn,no,"solo,family,friends ",any,107
+Lonavala,pune,Maharashtra ,4,25,autumn,yes,"family,friends ",any,108
+Mahabaleshwar,"pune,Mumbai ",Maharashtra ,4.3,20,autumn,yes,"family,friends ",any,109
+Shirdi,"Mumbai, pune",Maharashtra ,5,15,autumn,yes,family,hindu,110
+ellora caves,aurangabad ,Maharashtra ,4.5,20,autumn,yes,"family,friends ",any,111
+Panchgani,pune,Maharashtra ,4.2,25,autumn,yes,"solo,family,friends ",any,112
+Aurangabad ,mumbai,Maharashtra ,4.9,30,autumn,yes,"family,friends ",religious ,113
+Nashik,Mumbai ,Maharashtra ,4.9,30,autumn,yes,"family,friends ",religious ,114
+Ratnagiri,Mumbai ,Maharashtra ,4.8,25,autumn,yes,family,any,115
+Pune,pune,Maharashtra ,5,20,autumn,yes,"solo,family,friends ",any,116
+Imphal,Manipur ,Manipur,2.6,30,autumn,No,"family,friends ",any,117
+Thoubal,Manipur ,Manipur,3.4,30,autumn,yes,"solo,family,friends ",any,118
+Tamenglong,Manipur ,Manipur,3.1,25,autumn,No,"solo,family,friends ",any,119
+Chandel,Manipur ,Manipur,3.8,30,autumn,Yes,"solo,family,friends ",any,120
+Loktak Lake and Sendra Island,Imphal ,Manipur,3.6,35,autumn,Yes,"solo,family,friends ",any,121
+Moirang,Manipur ,Manipur,3.5,30,autumn,Yes,"family,friends ",any,122
+Keibul Lamjao National Park,Bishnupur,Manipur,4.3,30,winter,yes,family,any,123
+Kangla Fort,Imphal,Manipur,4.3,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,124
+Shri Shri Govindaji Temple,Imphal,Manipur,4.2,35,"summer,spring,winter,rainy,autumn",yes,family,hindu,125
+Manipur State Museum,Imphal,Manipur,4,25,"summer,spring,winter,rainy,autumn",no,family,any,126
+Shirui kashong (peak),Ukhrul,Manipur,4.5,27,"summer,spring,winter,rainy,autumn",no,friends,any,127
+RKCS Art Gallery And Museum,Imphal,Manipur,4.4,20,"summer,spring,winter,rainy,autumn",yes,family,any,128
+Khongjom War Memorial Complex,Thoubal,Manipur,4.4,10,monsoon,no,friends,any,129
+Loukoi Pat,Imphal,Manipur,3.9,27,monsoon,yes,solo,any,130
+Shirui Kashong,Ukhrul,Manipur,4.6,22,summer,no,friends,any,131
+Singda Dam,Imphal,Manipur,4.2,22,winter,yes,friends,any,132
+NohKaLikai Falls,Cherrapunji,Meghalaya,4.7,25,winter,yes,"solo,friends",any,133
+Umiam Lake,Shillong,Meghalaya,4.5,24,monsoon,yes,friends,any,134
+Elephant Falls,Shillong,Meghalaya,4.4,23,monsoon,yes,friends,any,135
+Balpakram National Park,Garo Hills,Meghalaya,4.2,13,winter,no,solo,any,136
+Nokrek National Park,Garo Hills,Meghalaya,4.2,15,"summer,spring,winter,rainy,autumn",no,friends,any,137
+Ward's Lake,Shillong,Meghalaya,4.4,20,monsoon,yes,solo,any,138
+Double Decker Living Root Bridge,Cherrapunji,Meghalaya,4.7,35,monsoon,yes,solo,any,139
+"Shillong View Point, Laitkor Peak",Shillong,Meghalaya,4.4,23,summer,yes,friends,any,140
+Don Bosco Museum,Shillong,Meghalaya,4.4,10,"summer,spring,winter,rainy,autumn",yes,family,christian,141
+Laitlum Canyon,Shillong,Meghalaya,4.7,21,winter,yes,friends,any,142
+Vantawng Falls,Serchhip,Mizoram,4.1,26,winter,yes,friends,any,143
+Tam Dil,Saitual,Mizoram,4.4,19,winter,no,family,any,144
+Tropic of Cancer - Mizoram,Aizwal,Mizoram,4.3,28,winter,yes,family,any,145
+Phawngpui National Park,Lawngtlai,Mizoram,4.2,16,"summer,spring,winter,rainy,autumn",no,family,any,146
+Dampa Tiger Reserve Sanctuary,Aizwal,Mizoram,3.8,15,winter,no,family,any,147
+Mizoram State Museum,Aizwal,Mizoram,4.1,18,winter,no,friends,any,148
+Reiek,Aizwal,Mizoram,4.5,25,winter,yes,friends,any,149
+Murlen National Park,Champhai,Mizoram,4.3,20,winter,yes,family,any,150
+Palak Lake,Saiha,Mizoram,4.1,21,winter,yes,solo,any,151
+Tuirihiau falls,Serchhip,Mizoram,4.4,24,winter,yes,friends,any,152
+Intanki National Park,Peren,Nagaland,4,13,winter,yes,family,any,153
+Kohima War Cemetery,Kohima,Nagaland,4.2,40,"summer,spring,winter,rainy,autumn",yes,family,any,154
+Nagaland State Museum,Kohima,Nagaland,3.8,35,"summer,spring,winter,rainy,autumn",no,family,any,155
+Naga Heritage Village,Kohima,Nagaland,4.5,28,winter,yes,family,any,156
+Kachari Ruins,Dimapur,Nagaland,4.2,32,"summer,spring,winter,rainy,autumn",yes,family,any,157
+Shilloi Lake,Phek,Nagaland,4.3,25,monsoon,yes,friends,any,158
+Puliebadze WildLife Sanctuary,Jotsoma,Nagaland,4.4,26,winter,yes,friends,any,159
+Nagaland Zoological Park,Dimapur,Nagaland,3.7,13,"summer,spring,winter,rainy,autumn",yes,family,any,160
+Dzuleke,Kohima,Nagaland,4.5,23,winter,yes,friends,any,161
+Kohima Cathedral Church,Kohima,Nagaland,4.6,45,"summer,spring,winter,rainy,autumn",yes,family,christian,162
+nohkalikai falls,cherrapunji,meghalaya,4.7,0,summer,yes,"friends,family,solo",any,163
+umiam lake,shillong,meghalaya,4.5,0,"summer,spring,winter,rainy,autumn",yes,friends,any,164
+elephant falls,shillong,meghalaya,4.4,0,summer,yes,"friends,family,solo",any,165
+double descker living roots bridge,cherrapunji,meghalaya,4.8,15,"summer,spring,winter,rainy,autumn",yes,friends,any,166
+balpakram national park,garo hills,meghalaya,4.2,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,167
+tropic of cancer,mizoram,mizoram,4.3,0,"summer,spring,winter,rainy,autumn",yes,friends,any,168
+mizoram state museum,aizawl,mizoram,4.1,0,"summer,spring,winter,rainy,autumn",yes,family,any,169
+solomon's temple,aizawl,mizoram,4.4,0,"summer,spring,winter,rainy,autumn",yes,family,christian,170
+lushai hills,patkai,mizoram,4.4,20,spring,yes,friends,any,171
+folkland park,aizawl,mizoram,4.2,0,"summer,spring,winter,rainy,autumn",yes,family,any,172
+kohima war cemetery,kohima,nagaland,4.2,0,summer,yes,solo,any,173
+dimapur Ao baptist church,dimapur,nagaland,4.6,0,"summer,spring,winter,rainy,autumn",yes,family,christian,174
+dzukou valley trek,dzukou ,nagaland,4.8,20,summer,yes,friends,any,175
+kalibari temple,dimapur,nagaland,4.8,0,spring,yes,family,hindu,176
+triple falls seithekema,dimapur,nagaland,4.5,20,summer,yes,solo,any,177
+konark sun temple ,konark,odisha,4.6,0,spring,yes,family,hindu,178
+shri jagannath temple ,puri,odisha,4.7,0,summer,yes,family,hindu,179
+similipal national park,bhanjpur,odisha,4.3,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,180
+golden beach,puri,odisha,4.5,15,summer,yes,friends,any,181
+mukteswara temple ,bhudaneswar,odisha,4.6,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,182
+nandankanan zoological park,bhudaneswar,odisha,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,183
+udaygiri and khandagiri caves,bhudaneswar,odisha,4.4,20,"summer,spring,winter,rainy,autumn",yes,friends,any,184
+lingaraja temple,bhudaneswar,odisha,4.6,0,summer,yes,family,hindu,185
+hirakud dam,hirakund,odisha,4.2,20,spring,yes,friends,any,186
+nagaland state museum,bayavu hills,nagaland,3.8,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,187
+naga heritage village,naga,nagaland,4.5,0,"summer,spring,winter,rainy,autumn",yes,solo,any,188
+shilloi lake,lustam village,nagaland,4.3,10,"summer,spring,winter,rainy,autumn",yes,friends,any,189
+mount saramati,burma,nagaland,4.2,20,spring,yes,solo,any,190
+ntanki national park,peren,nagaland,4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,191
+ tam dil lake,aizawl,mizoram,4.4,20,summer,yes,friends,any,192
+dampa tiger reserve ,western mizoram,mizoram,3.9,15,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,193
+mizoram science centre,zarkawt ,mizoram,4.1,0,"summer,spring,winter,rainy,autumn",yes,friends,any,194
+khawhpawp water falls ,aizawl,mizoram,4,20,spring,yes,solo,any,195
+pushpak gurudwara,aizawl,mizoram,4.1,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,196
+kyllang rock ,khasi hills ,meghalaya,4.2,20,"summer,spring,winter,rainy,autumn",yes,solo,any,197
+baghmara,baghmara,meghalaya,4,0,"summer,spring,winter,rainy,autumn",yes,friends,any,198
+ward's lake,shillong,meghalaya,4.4,20,"summer,spring,winter,rainy,autumn",yes,friends,any,199
+nokrek national park,tura,meghalaya,4.2,0,"summer,spring,winter,rainy,autumn",yes,family,any,200
+don bosco museum,shillong,meghalaya,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,201
+Ujjyanta Palace,Agartala,Tripura,4.6,20,"summer,spring,winter,rainy,autumn",yes,"solo,family,friends ",any,202
+Heritage Park,Agartala,Tripura,4.2,25,"summer,spring,winter,rainy,autumn",yes,"friend,family",any,203
+Haveli Museum,Agartala,Tripura,3.9,30,"summer,spring,winter,rainy,autumn",yes,"friends,family",religious ,204
+Jagannath Bari,Agartala,Tripura,4.4,35,winter,yes,family ,hindu,205
+Tripureshwari Temple,Udaipur,Tripura,4.7,35,"summer,spring,winter,rainy,autumn",yes,"solo,family,friends ",hindu,206
+Kalyan Sagar,Udaipur,Tripura,4.4,20,summer,yes,"solo,friends",any,207
+Rowa Wildlife Sanctuary ,Dharmanagar,Tripura,3.5,15,summer ,yes,"solo,family,friends ",any,208
+Unakoti,Kailashahar,Tripura,4.5,35,"summer,spring,winter,rainy,autumn",no,family,hindu,209
+Trishna Wild Life,Belonia,Tripura,3.9,15,summer ,yes,friends ,any,210
+Rajbari National Park,Belonia,Tripura,5,20,"summer,spring,winter,rainy,autumn",yes,friends ,any,211
+golconda fort ,hyderabad,telangana,4.4,0,spring,yes,"friends,family",any,212
+charminar,hyderabad,telangana,4.4,0,spring,yes,"friends,family,solo",any,213
+ramoji film city,hyderabad,telangana,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family",any,214
+salar jung museum,hyderabad,telangana,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family,solo",any,215
+hussain sagar,hyderabad,telangana,4.3,0,summer,yes,"friends,family,solo",any,216
+birla mandir,hyderabad,telangana,4.6,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,217
+mecca masjid,hyderabad,telangana,4.7,0,"summer,spring,winter,rainy,autumn",yes,family,muslim,218
+qutb shahi tombs,hyderabad,telangana,4.4,0,"summer,spring,winter,rainy,autumn",yes,"friends,family",any,219
+chilkur balaji temple,chilkur,telangana,4.3,0,"summer,spring,winter,rainy,autumn",yes,family,hindu,220
+thousand pillar temple,warangal,telangana,4.5,0,spring,yes,family,hindu,221
+Taj Mahal,Agra,Uttar Pradesh,4.6,0,"summer,spring,winter,rainy,autumn",Yes,"solo,family,friends",any,222
+Noida,Noida,Uttar Pradesh,4,25,autumn,No,"solo,family,friends",any,223
+Jhansi,Jhansi,Uttar Pradesh,4,15,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,224
+Kashi Viswanath Temple,varanasi,Uttar Pradesh,4.5,45,"summer,spring,winter,rainy,autumn",Yes,family,hindus,225
+Vrindavan,Vrindavan,Uttar Pradesh,4.2,30,"summer,spring,winter,rainy,autumn",Yes,"family,friends",hindus,226
+Lucknow,Locknow,Uttar Pradesh,4.1,0,winter,Yes,"friends,family,solo",any,227
+Ayodhya,Ayodhya,Uttar Pradesh,4.2,30,autumn,Yes,"family,friends",hindus,228
+Hastinapur,Hastinapur,Uttar Pradesh,4.6,25,autumn,Yes,"family,friends",hindus,229
+Kanpur,Kanpur,Uttar Pradesh,4.8,30,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,230
+Prayagraj,Allahabad,Uttarpradesh,4.1,30,"summer,spring,winter,rainy,autumn",Yes,"family,friends",hindus,231
+Fatehpur Sikri,Agra,Uttar Pradesh,4.6,30,"summer,spring,winter,rainy,autumn",Yes,"family,friends",any,232
+Sree Venkateswara Swamy Temple,Tirupathi,Andhra Pradesh,4.8,40,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",hindu,233
+Araku,Vizag,Andhra Pradesh,4.2,0,autumn,Yes,"friends,family,solo",any,234
+Horsley Hills,Madanapalle,Andhra Pradesh,4,0,autumn,Yes,"family,friends",any,235
+Sri Raghavendra Swamy Mutt,Mantralaya,Andhra Pradesh,4.7,40,"summer,spring,winter,rainy,autumn",Yes,"solo,family,friends",hindu,236
+Talakona Waterfalls,tirupathi,Andhra Pradesh,4.4,12,autumn,Yes,"family,friends",any,237
+Borra Caves,Araku,Andhra Pradesh,4.5,15,"summer,spring,winter,rainy,autumn",Yes,"family,friends",any,238
+Bheemili Beach,Vizag,Andhra Pradesh,4.3,7,autumn,Yes,"friends,family",any,239
+Srisailam Dam,Srisailam,Andhra Pradesh,4.7,20,autumn,Yes,"family,friends",any,240
+Pulicat Lake and Sanctuary,Sullurpet,Andhra Pradesh,4,10,autumn,Yes,"solo,family,friends",any,241
+SHAR,Srihari Kota,Andhra Pradesh,4.7,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,242
+Papikondalu,Rajahmundry,Andhra Pradesh,4.4,0,autumn,Yes,"solo,family,friends",any,243
+Yaganti Temple,Yaganti,Andhra Pradesh,4.6,30,autumn,Yes,"friends,family,solo",hindu,244
+Indira Gandhi Zoological Park,Visakhapatnam,Andhra Pradesh,4.1,0,autumn,Yes,"family,friends",any,245
+Chandragiri Fort,Chandragiri,Andhra Pradesh,4.2,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,246
+Namdapha National Park,Namdaph,Arunachal Pradesh,4.3,15,"summer,spring,winter,rainy,autumn",Yes,"family,friends",any,247
+Tawang,Tawang,Arunachal Pradesh,4.7,0,summer,Yes,"family,friends",any,248
+Sela Pass,Tawang,Arunachal Pradesh,4.8,0,autumn,Yes,"solo,family,friends",any,249
+Ziro Valley,Ziro,Arunachal Pradesh,4.8,20,summer,Yes,"family,friends",any,250
+Tezu,Lohit,Arunachal Pradesh,4.1,20,winter,Yes,"solo,family,friends",buddists,251
+Roing,Roing,Arunachal Pradesh,4.1,0,autumn,Yes,"friends,family,solo",any,252
+Bomdila,West Kameng,Arunachal Pradesh,4.7,30,summer,Yes,family,any,253
+Dirang Valley,Dirang ,Arunachal Pradesh,4.9,20,summer,Yes,"solo,family,friends",any,254
+Pasi Ghat,East Siang,Arunachal Pradesh,3.9,20,spring,Yes,"solo,family,friends",any,255
+Itanagar,Itanagar,Arunachal Pradesh,4,0,autumn,Yes,"solo,family,friends",any,256
+Aalo,West Siang,Arunachal Pradesh,3.8,25,autumn,Yes,"solo,family,friends",any,257
+Nuranang Falls,Tawang,Arunachal Pradesh,4.3,25,monsoon,Yes,"family,friends",any,258
+Bhalukpong,West Kameng,Arunachal Pradesh,4.4,0,autumn,Yes,"solo,family,friends",any,259
+Sangti,Dirang ,Arunachal Pradesh,4,0,monsoon,Yes,"family,friends",any,260
+Changlang,Changlang,Arunachal Pradesh,4.5,25,autumn,Yes,"family,friends",any,261
+Kaziranga National Park,Guwahati,Assam,3.9,25,autumn,Yes,"family,friends",any,262
+Manas National Park,Gobardhana,Assam,3.8,20,autumn,Yes,"family,friends",any,263
+Kamakhya Temple,kamakhya,Assam,4.5,30,autumn,Yes,family,hindu,264
+Majuli Island,Majuli,Assam,4.7,0,autumn,Yes,"friends,family,solo",any,265
+Kakochang Waterfalls,Kakochang ,Assam,4.5,0,autumn,Yes,"friends,family,solo",any,266
+Tocklai Tea Research Centre,Jorhat,Assam,4.5,25,"summer,spring,winter,rainy,autumn",Yes,"friends,solo",any,267
+Guwahati Planetarium,Guwahati,Assam,4.3,20,"summer,spring,winter,rainy,autumn",No,"friends,family,solo",any,268
+Hajo,Guwahati,Assam,4,30,autumn,Yes,"friends,family,solo","hindu,buddhists,muslims",269
+Padam Pukhuri,Tezpur,Assam,4,20,"summer,spring,winter,rainy,autumn",Yes,"friends,family",any,270
+Haflong Hills,Haflong,Assam,4.2,25,autumn,Yes,"friends,family",any,271
+Dibrugarh,Dibrugarh,Assam,4.4,25,autumn,Yes,"friends,family",any,272
+Tinsukia,Tinsukia,Assam,3.9,0,autumn,Yes,"friends,family,solo",any,273
+Dispur,Dispur,Assam,4,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,274
+Amaravathi,Guntur,Andhra Pradesh,4.1,0,"summer,spring,winter,rainy,autumn",Yes,"solo,family,friends",any,275
+Bodh Gaya,Gaya,Bihar,4.3,20,autumn,Yes,"friends,family,solo",buddhists,276
+Patna,Patna,Bihar,4.2,25,autumn,Yes,"solo,family,friends",sikhs,277
+Nalanda,Nalanda,Bihar,4.2,0,autumn,Yes,"solo,family,friends",buddhists,278
+Vaishali,Patna,Bihar,4.4,30,autumn,Yes,"family,friends","buddhists,sikhs",279
+Madhubani,Darbhanga,Bihar,4,30,autumn,Yes,"solo,family,friends",any,280
+Muzaffarpur,Muzaffarpur,Bihar,3.9,25,"summer,spring,winter,rainy,autumn",No,"friends,family,solo",any,281
+Bhugalpur,Bhagulpur,Bihar,4.2,0,autumn,Yes,"family,friends",any,282
+Hot Spring,Rajgir,Bihar,4.5,0,monsoon,Yes,"friends,family,solo","hindus,jains,buddhists",283
+Jal Mandir,Pawapuri,Bihar,4.1,30,monsoon,Yes,"solo,family,friends",jains,284
+Hajipur,Hajipur,Bihar,3.9,25,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo","hindus,muslims,buddhists,jains",285
+ Karkat Waterfall,Karkathgarh,Bihar,4.5,20,monsoon,Yes,friends,any,286
+Dhungeswari hills,Larpur,Bihar,4,20,"summer,spring,winter,rainy,autumn",Yes,"friends,family",buddhists,287
+Patna Musuem,Patna,Bihar,4.3,0,"summer,spring,winter,rainy,autumn",Yes,"friends,family,solo",any,288
